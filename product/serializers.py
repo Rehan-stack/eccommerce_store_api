@@ -17,3 +17,6 @@ class Product_detail_serializer(serializers.ModelSerializer):
     class Meta:
         model = Product_details
         fields = '__all__'
+
+
+        
